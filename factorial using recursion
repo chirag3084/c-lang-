@@ -7,7 +7,7 @@ else
   }
 
 int main() {
-  int y,f,x;
+  int y,f;
    y = 5;
   f = fact(y);
   printf("The factorial of %d is : %d ",y,f);
